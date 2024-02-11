@@ -19,5 +19,7 @@
 
  
 <h2>H2-console Bill</h2>
-<img src="captures/bills.png">
- 
+<img src="captures/bills.png"/>
+
+<h2>Détail de la facture</h2>
+<img src="captures/Bill-details.png">

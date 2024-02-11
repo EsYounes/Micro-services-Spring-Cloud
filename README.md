@@ -3,23 +3,23 @@
 
  
 <h2>Liste des clients</h2>
-<img src="captures/customers.png">
-<img src="captures/clients.png">
+<img src="captures/customers.PNG">
+<img src="captures/clients.PNG">
 
  
 <h2>Liste des produits</h2>
-<img src="captures/products.png">
+<img src="captures/products.PNG">
 <h2>Récuperation des clients à partir de la gateway</h2>
-<img src="captures/gateway-clients.png">
+<img src="captures/gateway-clients.PNG">
  
 <h2>Interface Eureka contenant la liste des micro-services</h2>
-<img src="captures/eureka.png">
+<img src="captures/eureka.PNG">
 <h2>Récuperation des données à partir des noms des mico-services</h2>
-<img src="captures/nom-microservice.png">
+<img src="captures/nom-microservice.PNG">
 
  
 <h2>H2-console Bill</h2>
-<img src="captures/bills.png"/>
+<img src="captures/bills.PNG"/>
 
 <h2>Détail de la facture</h2>
-<img src="captures/Bill-details.png">
+<img src="captures/Bill-details.PNG">
